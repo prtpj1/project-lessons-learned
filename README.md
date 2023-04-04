@@ -1,10 +1,12 @@
 # Projeto Lessons Learned
 <img src="https://github.com/prtpj1/lessons-learned/blob/main/images/Screenshot_111.png" alt="Header" /><br>
+<hr/>
 Este foi o meu primeiro projeto no curso de desenvolvimento web da Trybe
 <br>
-
+<br>
 Neste projeto, desenvolvi um site com informações do meu aprendizado neste início do curso, onde pude colocar em prática o que aprendi nos 3 primeiros blocos e tive contato pela primeira com HTML Semântico e CSS
 <br>
+<hr/>
 
 ## Tecnologias Utilizadas
 
@@ -19,8 +21,6 @@ Neste projeto, desenvolvi um site com informações do meu aprendizado neste in�
 ## Link para visualizar o site do projeto:
 
 [Site do Projeto](https://prtpj1.github.io/lessons-learned/)
-
-<br>
 
 ## Como rodar a aplicação?
 
