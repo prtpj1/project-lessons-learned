@@ -8,10 +8,6 @@ Neste projeto, desenvolvi um site com informações do meu aprendizado neste in�
 <br>
 <hr/>
 
-<!-- -->
-
-<!-- -->
-
 ## Tecnologias Utilizadas
 
 #### FrontEnd:
