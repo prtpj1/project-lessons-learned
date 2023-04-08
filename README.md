@@ -1,4 +1,4 @@
-# 2º Projeto: Lessons Learned
+# 1º Projeto: Lessons Learned
 <img src="https://github.com/prtpj1/lessons-learned/blob/main/images/Screenshot_111.png" alt="Header" /><br>
 <hr/>
 Este foi o meu primeiro projeto no curso de desenvolvimento web da Trybe
