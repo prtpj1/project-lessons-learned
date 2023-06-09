@@ -23,11 +23,11 @@ Neste projeto, desenvolvi um site com informações do meu aprendizado neste in�
 [Site do Projeto](https://prtpj1.github.io/lessons-learned/)
 
 ## Como rodar a aplicação?
-
-1. Clone o repositório: <br>
+- Clone o repositório: <br>
 `git clone git@github.com:prtpj1/lessons-learned.git` 
-
-2. Inicie a aplicação: <br>
+- Acesse a pasta do projeto: <br>
+`cd lessons-learned`
+- Inicie a aplicação: <br>
 `abra no seu navegador o arquivo index.html` 
 </br>
 </br>
