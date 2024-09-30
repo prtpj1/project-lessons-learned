@@ -29,7 +29,6 @@ In this project, I developed a website with information about my learning at the
 - Semantic HTML5 for a more accessible and better-ranked page
 - Positioning and styling page elements using CSS
 
----
 ## According to the project requirements designated by Trybe, I learned how to:
 - ✅ Add a specific background color to the page  
 - ✅ Add a top bar with a title  
@@ -46,7 +45,6 @@ In this project, I developed a website with information about my learning at the
 - ✅ Change attributes related to fonts  
 - ✅ Position my article and the section about learnings side by side  
 
----
 ## Stacks
 ### FrontEnd: 
 - HTML
@@ -54,7 +52,6 @@ In this project, I developed a website with information about my learning at the
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html2.png?raw=true" width="50" height="50" alt="HTML Icon" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS2.png?raw=true" width="50" height="50" alt="CSS3 Icon" /></a>
 
----
 ## Link to view the project site:
 [Project Site](https://prtpj1.github.io/project-lessons-learned/)
 
@@ -74,12 +71,10 @@ _*At the time I completed this project, I was not yet familiar with Conventional
 ## Descrição do Projeto
 Neste projeto, desenvolvi um site com informações do meu aprendizado neste início do curso, onde pude colocar em prática o que aprendi nos 3 primeiros blocos e tive contato pela primeira com HTML Semântico e CSS
 
----
 ## Nesse projeto, aprendi e coloquei em prática:
 - HTML5 semântico para uma página mais acessível e melhor ranqueada
 - Posicionar e estilizar os elementos da página usando CSS
 
----
 ## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
 - ✅ Adicionar uma cor de fundo específica para a página  
 - ✅ Adicionar uma barra superior com um título  
@@ -103,7 +98,6 @@ Neste projeto, desenvolvi um site com informações do meu aprendizado neste in�
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/html2.png?raw=true" width="50" height="50" alt="HTML Icon" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/prtpj1/prtpj1/blob/main/Github%20Imgs/CSS2.png?raw=true" width="50" height="50" alt="CSS3 Icon" /></a>
 
----
 ## Link para visualizar o site do projeto:
 
 [Site do Projeto](https://prtpj1.github.io/project-lessons-learned/)
