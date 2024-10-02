@@ -26,8 +26,9 @@
 In this project, I developed a website with information about my learning at the beginning of the course, where I was able to put into practice what I learned in the first three blocks and had my first contact with Semantic HTML and CSS.
 
 ## In this project, I learned and put into practice:
-- Semantic HTML5 for a more accessible and better-ranked page
-- Positioning and styling page elements using CSS
+- Use HTML to build web pages
+- Use semantic HTML to make your page more accessible and better ranked
+- Use CSS to add style and position elements
 
 ## According to the project requirements designated by Trybe, I learned how to:
 - ✅ Add a specific background color to the page  
@@ -72,8 +73,9 @@ _*At the time I completed this project, I was not yet familiar with Conventional
 Neste projeto, desenvolvi um site com informações do meu aprendizado neste início do curso, onde pude colocar em prática o que aprendi nos 3 primeiros blocos e tive contato pela primeira com HTML Semântico e CSS
 
 ## Nesse projeto, aprendi e coloquei em prática:
-- HTML5 semântico para uma página mais acessível e melhor ranqueada
-- Posicionar e estilizar os elementos da página usando CSS
+- Utilizar HTML para construir páginas WEB
+- Utilizar HTML semântico para tornar sua página mais acessível e melhor ranqueada
+- Utilizar CSS para adicionar estilo e posicionar elementos
 
 ## De acordo com os requisitos do projeto designados pela Trybe aprendi como:
 - ✅ Adicionar uma cor de fundo específica para a página  
